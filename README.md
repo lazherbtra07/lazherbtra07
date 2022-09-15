@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lazher Btr</h1>
-<h3 align="center">I'm frontend developer from Dubai</h3>
+<h3 align="center">I'm Frontend Developer from Algeria</h3>
 
 \- I first have been learning to code for 1 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
 
