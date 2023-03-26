@@ -5,6 +5,10 @@
 
 \- I first have been learning to code for 1 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
 
+<div align="left">
+
+### Hi there 🤗👋🏻 **My name is Lazher Btr** 
+
 - 🌍 I'm based in algeria but ready to move
 - 🖥️ See my portfolio at https://lazher-btr-portfolio.netlify.app
 - ✉️ You can contact me at [lazher@web3pros.dev]
