@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/btrlazher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btrlazher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lazherbtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazherbtr" height="30" width="40" /></a>
-<a href="https://fb.com/lazherbtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lazherbtr" height="30" width="40" /></a>
+<a href="https://fb.com/lazherr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lazherbtr" height="30" width="40" /></a>
 <a href="https://instagram.com/lazher_btr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazher_btr" height="30" width="40" /></a>
 </p>
 
