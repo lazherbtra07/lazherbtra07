@@ -1,7 +1,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=F74C76&vCenter=true&width=600&height=70&lines=Hi,+I'm+Lazher+Btr;I'm+Frontend+Developer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=blue&vCenter=true&width=600&height=70&lines=Hi,+I'm+Lazher+Btr;I'm+Frontend+Developer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 \- I first have been learning to code for 1 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
 
