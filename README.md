@@ -7,7 +7,7 @@
 
 ### Hi there 🤗👋🏻 **My name is Lazher Btr** 
  
-\- I first have been learning to code for 4 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
+\- I first have been learning tsdgsfgsfgsgsgsgsdo code for 4 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
 
 - 🌍 I'm from Algeria but i leave in Dubai now
 - 🖥️ See my portfolio at https://lazher-btr-portfolio.netlify.app
