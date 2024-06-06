@@ -11,7 +11,8 @@
 
 - 🌍 I live in UAE - Dubai
 - 🖥️ See my portfolio at [ https://portfolio-next14-tailwind.netlify.app ]
-- ✉️ You can contact me at [ lazher@web3pros.dev ]
+- ✉️ You can contact me at [ lazher@web3pros.dev ] or
+                          [ lazher.btr@gmail.com ]
 - 🧠 I'm learning NEXT JS now
 - 🤝 I'm open to collaborating on HIGHT IMPACT PROJECT
 - ⚡ I like solving problems ^\_^
