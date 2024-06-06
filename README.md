@@ -1,7 +1,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=blue&vCenter=true&width=600&height=70&lines=Hi+there+👋🏻🤗,+I'm+Lazher+Btr;I'm+Frontend+Developer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=blue&vCenter=true&width=600&height=70&lines=Hi+there+👋🏻🤗,+I'm+LazHer+Btr;I'm+Front-End+Developer+and+Web+Desinger;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <div align="left">
 
