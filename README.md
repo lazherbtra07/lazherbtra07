@@ -1,13 +1,13 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=blue&vCenter=true&width=600&height=70&lines=Hi+there+👋🏻🤗,+I'm+LazHer+Btr;I'm+Front-End+Developer;and+Web+Designer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=blue&vCenter=true&width=600&height=70&lines=Hi+there+👋🏻🤗,+I'm+LazHer+Btr;I'm+Full-stack+Developer;and+Web+Designer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <div align="left">
 
 ### Hi there 🤗👋🏻 **My name is Lazher Btr** 
  
-\- I first have been learning do code for 4 year at university - then I moved to a computer science istitute specializing in frontent dev, but I left befor the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now .
+\- I first learned to do code for 3 years at university - then I moved to a computer science institute specializing in frontend dev, but I left before the semester ended cause I didn't find it suitable for me - so I started self-learning and that's what worked for me to develop my skills to became who I am now.
 
 - 🌍 I live in UAE - Dubai
 - 🖥️ See my portfolio at [ https://portfolio-next14-tailwind.netlify.app ]
