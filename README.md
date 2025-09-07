@@ -65,7 +65,17 @@ I love solving problems and turning ideas into real-world digital solutions. ^\_
 <p>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" title="Angular"/>
    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" alt="HTML" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=Bootstrap" alt="Bootstrap" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=CSS3" alt="CSS3" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=HTML5" alt="HTML5" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=JavaScript" alt="JavaScript" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=TypeScript" alt="TypeScript" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=Vue.js" alt="Vue.js" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=React" alt="React" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=Next.js" alt="Next.js" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=Redux" alt="Redux" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=SASS" alt="SASS" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=Tailwind" alt="Tailwind" width="50">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
