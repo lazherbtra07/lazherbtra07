@@ -65,7 +65,7 @@ I love solving problems and turning ideas into real-world digital solutions. ^\_
 <p>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" title="Angular"/>
    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=Bootstrap" alt="Bootstrap" width="50">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" width="50">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=CSS3" alt="CSS3" width="50">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=HTML5" alt="HTML5" width="50">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=JavaScript" alt="JavaScript" width="50">
