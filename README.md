@@ -63,19 +63,20 @@ I love solving problems and turning ideas into real-world digital solutions. ^\_
 ### Languages & Frameworks:
 
 <p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" title="Angular"/>
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=css3" alt="CSS3" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=html5" alt="HTML5" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=vue.js" alt="Vue.js" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=next.js" alt="Next.js" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" alt="Redux" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="SASS" width="50">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind" width="50">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" title="Angular"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS3" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html5" alt="HTML5" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue" alt="Vue.js" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redux" alt="Redux" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="SASS" width="50">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind" width="50">
+
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
