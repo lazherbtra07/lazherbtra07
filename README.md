@@ -91,19 +91,27 @@ I love solving problems and turning ideas into real-world digital solutions. ^\_
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="50" alt="Vercel"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="50" alt="Docker"/>
 
+<!-- Strapi -->
+<img src="https://avatars.githubusercontent.com/u/19872119?s=200&v=4" width="40" title="Strapi"/>
+
+<!-- Sanity -->
+<img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="40" title="Sanity"/>
+
+<!-- Convex -->
+<img src="https://avatars.githubusercontent.com/u/80882849?s=200&v=4" width="40" title="Convex"/>
+
+<!-- ShadCN -->
+<img src="https://ui.shadcn.com/favicon.ico" width="40" title="ShadCN UI"/>
+
+
 </p>
 
 ### Design Tools:
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="50" alt="Figma"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop" width="50" alt="Photoshop"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" width="50" alt="Illustrator"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="50" alt="Canva"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" title="Adobe XD"/>
 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" title="Adobe XD"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/>
 </p>
 
 ---
